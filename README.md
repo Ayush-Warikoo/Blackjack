@@ -14,3 +14,14 @@ All bets will be made before the round begins (blind) and the there is a 1:1 pay
 
 ## Demo 
 
+### Read up on the tutorial before taking on the house and earn as much as you bet when you win!
+![](Images/BlackJack_Demo1.jpg) </br></br>
+
+### With aces you can choose a value of 1 or 11 and if you go over you lose the amount you bet.
+![](Images/BlackJack_Demo2.jpg) </br></br>
+
+### The objective is to hit 21, anything less might not be enough to win!
+![](Images/BlackJack_Demo3.jpg) </br></br>
+
+### When you lose all your money, you have the option to buy in again, give up or return to the menu. 
+![](Images/BlackJack_Demo4.jpg)
